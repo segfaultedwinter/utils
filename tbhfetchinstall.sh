@@ -1,6 +1,7 @@
 # this script was made to make the installation of
 # tbhfetch less of a P.I.T.A...
 # SEGFAULTEDWINTER BAYBEEE!!!
+# Btw this program doesn't even really fetch anything LMAO
 
 git clone https://github.com/rhhen122/tbhfetch && cd tbhfetch
 rm -f config-file.png
